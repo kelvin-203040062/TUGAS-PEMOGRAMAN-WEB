@@ -41,7 +41,7 @@ Shift Praktikum : Jumat pukul 10.00
         return "<div class=$style1><p class=$style2>$tulisan</p></div>";
     }
 
-    echo gantiStyle("Selamat Datang di Praktikum PW");
+    echo gantiStyle("Selamat Datang di Praktikum Pemograman web");
 
     ?>
 
