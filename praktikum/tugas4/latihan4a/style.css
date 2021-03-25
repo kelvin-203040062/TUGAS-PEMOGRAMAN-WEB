@@ -1,0 +1,12 @@
+table {
+    border: 1px solid black;
+}
+
+td,
+h2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: justify;
+}
